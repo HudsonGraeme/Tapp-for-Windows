@@ -1,0 +1,37 @@
+C:\Users\S\AppData\Local\Temporary Projects\Tapp\bin\Debug\Tapp.exe.config
+C:\Users\S\AppData\Local\Temporary Projects\Tapp\bin\Debug\Tapp.exe
+C:\Users\S\AppData\Local\Temporary Projects\Tapp\bin\Debug\Tapp.pdb
+C:\Users\S\AppData\Local\Temporary Projects\Tapp\obj\Debug\Tapp.csprojResolveAssemblyReference.cache
+C:\Users\S\AppData\Local\Temporary Projects\Tapp\obj\Debug\Tapp.Form1.resources
+C:\Users\S\AppData\Local\Temporary Projects\Tapp\obj\Debug\Tapp.Properties.Resources.resources
+C:\Users\S\AppData\Local\Temporary Projects\Tapp\obj\Debug\Tapp.csproj.GenerateResource.Cache
+C:\Users\S\AppData\Local\Temporary Projects\Tapp\obj\Debug\Tapp.exe
+C:\Users\S\AppData\Local\Temporary Projects\Tapp\obj\Debug\Tapp.pdb
+E:\Hexploit\Tapp\Tapp\bin\Debug\Tapp.exe.config
+E:\Hexploit\Tapp\Tapp\obj\Debug\Tapp.exe
+E:\Hexploit\Tapp\Tapp\obj\Debug\Tapp.pdb
+E:\Hexploit\Tapp\Tapp\bin\Debug\Tapp.exe
+E:\Hexploit\Tapp\Tapp\bin\Debug\Tapp.pdb
+E:\Hexploit\Tapp\Tapp\bin\Debug\Newtonsoft.Json.dll
+E:\Hexploit\Tapp\Tapp\bin\Debug\System.Net.Http.dll
+E:\Hexploit\Tapp\Tapp\bin\Debug\System.Net.Http.Extensions.dll
+E:\Hexploit\Tapp\Tapp\bin\Debug\System.Net.Http.Primitives.dll
+E:\Hexploit\Tapp\Tapp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Hexploit\Tapp\Tapp\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Hexploit\Tapp\Tapp\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Hexploit\Tapp\Tapp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Hexploit\Tapp\Tapp\bin\Debug\Newtonsoft.Json.xml
+E:\Hexploit\Tapp\Tapp\bin\Debug\System.Net.Http.Extensions.xml
+E:\Hexploit\Tapp\Tapp\bin\Debug\System.Net.Http.Primitives.xml
+E:\Hexploit\Tapp\Tapp\obj\Debug\Tapp.csproj.App.config
+E:\Hexploit\Tapp\Tapp\obj\Debug\Tapp.csprojResolveAssemblyReference.cache
+E:\Hexploit\Tapp\Tapp\obj\Debug\Tapp.Login.resources
+E:\Hexploit\Tapp\Tapp\obj\Debug\Tapp.Properties.Resources.resources
+E:\Hexploit\Tapp\Tapp\obj\Debug\Tapp.csproj.GenerateResource.cache
+E:\Hexploit\Tapp\Tapp\obj\Debug\Tapp.csproj.CoreCompileInputs.cache
+E:\Hexploit\Tapp\Tapp\obj\Debug\Tapp.csproj.CopyComplete
+E:\Hexploit\Tapp\Tapp\obj\Debug\Tapp.MainView.resources
+E:\Hexploit\Tapp\Tapp\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\Hexploit\Tapp\Tapp\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Hexploit\Tapp\Tapp\bin\Debug\websocket-sharp.dll
+E:\Hexploit\Tapp\Tapp\bin\Debug\websocket-sharp.xml
